@@ -5,7 +5,7 @@
 
 ### Objetivo
 
-1. Criar um clone do clássico Dodge 'Em do Atari 2600 em Pygame...
+1. Criar um clone do clássico Dodge 'Em do Atari 2600 em Pygame.
 
 2. Em alternativa, do clássico Dragster do Atari 2600 em Pygame.
 
