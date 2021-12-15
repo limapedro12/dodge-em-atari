@@ -1,7 +1,7 @@
 # Projeto Dodge 'Em - Atari 2600
-## FPRO/MIEIC, 2021/22
+## FP/LEIC, 2021/22
 ## Pedro de Almeida Lima (up202108806)
-## 1MIEICXX
+## 1LIEIC003
 
 ### Objetivo
 
