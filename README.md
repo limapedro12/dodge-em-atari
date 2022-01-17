@@ -7,8 +7,6 @@
 
 1. Criar um clone do clássico Dodge 'Em do Atari 2600 em Pygame.
 
-2. Em alternativa, do clássico Dragster do Atari 2600 em Pygame.
-
 ### Repositório de código
 
 1) Link para o repositório do GitHub: https://github.com/@author/xxx
