@@ -6,6 +6,7 @@
 ### Objetivo
 
 1. Criar um clone do clássico Dodge 'Em do Atari 2600 em Pygame.
+2. Adicionar um menu mais intuitivo ao jogo
 
 ### Repositório de código
 
@@ -24,7 +25,7 @@
 
 ### Descrição
 
-*--- "Dodge 'Em" é um jogo de labirinto com tema de condução. Este inclui três versões do jogo, acessíveis através do botão Game Select no Atari 2600. O primeiro jogo é para um jogador e os dois restantes são para dois jogadores. O segundo jogo tem os dois jogadores, um jogador fazendo o papel do carro do jogador, alternando voltas. No terceiro jogo, um jogador joga com um carro e o outro controla o outro carro ao mesmo tempo, alternando voltas.*
+"Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontos da tela, sem bater contra o carro azul, que e circula na pista.
 
 ### UI
 
@@ -34,11 +35,4 @@
 
 - Pygame
 
-### Tarefas
-
-1. carregar os níveis
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
-
-- Atualizado a última vez em 07/12/2021
+- Atualizado a última vez em 17/01/2021
