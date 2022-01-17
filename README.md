@@ -35,4 +35,4 @@
 
 - Pygame
 
-- Atualizado a última vez em 17/01/2021
+Atualizado a última vez em 17/01/2021
