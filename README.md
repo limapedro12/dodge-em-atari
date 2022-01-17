@@ -11,18 +11,7 @@
 ### Repositório de código
 
 1) Link para o repositório do GitHub: https://github.com/limapedro12/dodge-em-atari
-
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
-
+2) 
 ### Descrição
 
 "Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontos da tela, sem bater contra o carro azul, que e circula na pista.
