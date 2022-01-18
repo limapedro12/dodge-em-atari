@@ -11,10 +11,10 @@
 ### Repositório de código
 
 1) Link para o repositório do GitHub: https://github.com/limapedro12/dodge-em-atari
-2) 
+
 ### Descrição
 
-"Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontos da tela, sem bater contra o carro azul, que e circula na pista.
+- "Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontos da tela, sem bater contra o carro azul, que e circula na pista.
 
 ### UI
 
@@ -23,5 +23,8 @@
 ### Pacotes
 
 - Pygame
+
+### Ficheiros
+- Para correr o jogo basta correr o ficheiro main.py
 
 Atualizado a última vez em 17/01/2021
