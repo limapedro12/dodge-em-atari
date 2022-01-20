@@ -14,7 +14,7 @@
 
 ### Descrição
 
-- "Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontos da tela, sem bater contra o carro azul, que e circula na pista.
+- "Dodge 'Em" é um jogo de labirinto com tema de condução. O objetivo do jogo é apanhar o máximo número de pontinhos da tela, sem bater contra o carro azul(inimigo), uma vez que jogamos com o carro amarelo. Quando recolhemos todos os 64 pontinhos da tela, o jogo recomeça, mas mantendo as vidas e os pontos já apanhados. Se batermos contra o carro azul, perdemos uma das 3 vidas. O jogo tem 3 níveis, no primeiro, o carro inimigo mantem-se na primeira pista. No segundo e terceiro, o carro azul imita os nossos movimentos, com a diferença que no terceiro nível, quando recolhemos todos os pontinhos, em vez de termos apenas um carro inimigo, passamos a ter 2.
 
 ### UI
 
